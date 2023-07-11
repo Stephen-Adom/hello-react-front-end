@@ -7,7 +7,7 @@ const Greeting = () => {
   const greeting = useSelector((state) => state.greeting.greeting);
   const dispatch = useDispatch();
 
-  const { data, isLoading } = useQuery(['greeting'], () => fetch('http://localhost:3000/random-greeting').then((res) => res.json()));
+  const { data, isLoading } = useQuery(['greeting'], () => fetch('http://localhost:4000/random-greeting').then((res) => res.json()));
 
   useEffect(() => {
     if (data && !isLoading) {
