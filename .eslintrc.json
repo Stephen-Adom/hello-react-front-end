@@ -20,6 +20,7 @@
     "import/no-named-as-default": "off",
     "react/react-in-jsx-scope": "off",
     "import/no-unresolved": "off",
+    "global-require": "off",
     "no-shadow": "off"
   },
   "overrides": [
