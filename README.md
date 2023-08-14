@@ -80,7 +80,7 @@ This project does not require installation.
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command
 
 ### Deployment
 
