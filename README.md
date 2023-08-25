@@ -49,7 +49,7 @@ Here is the link to the server app, you can see the source code on [Hello Rails 
 
 ### Key Features <a name="key-features"></a>
 
-- **Display random greetings in different language**
+- **Display random greetings in different languages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
