@@ -71,7 +71,7 @@ This project does not require installation.
 
 ### Usage
 
-**To run the project follow the following instruction:-**
+**To run the project follow the following instructions:-**
 
 - Clone this [repository](https://github.com/Stephen-Adom/hello-react-front-end.git) in your local machine with correct branch.
 - Run the following commands:-
