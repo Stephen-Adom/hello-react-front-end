@@ -59,7 +59,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project, follow the steps below:
+To run this project, follow the steps below:
 
 ### Setup
 
