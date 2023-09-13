@@ -45,7 +45,7 @@ A simple react application that displays random greetings in different languages
 
 ### Server App <a name="server-app"></a>
 
-Here is the link to the server app, you can see the source code on [Hello Rails Back-end](https://github.com/Stephen-Adom/hello-rails-back-end.git).
+Here is the link to the server app, You can see the source code on [Hello Rails Back-end](https://github.com/Stephen-Adom/hello-rails-back-end.git).
 
 ### Key Features <a name="key-features"></a>
 
